@@ -20,15 +20,25 @@ h1 {
   font-size: 50px;
   }
 
+  .form {
+    padding: 10px;
+  }
+
 main {
     justify-content: center;
     align-items: center;
     display: flex;
 }
 
-.for {
+.for1 {
     color: black;
-    font-size: 27px;
-    padding: 20px;
+    font-size: 15px;
+    padding: 0px 50px 16px 50px; 
     background-color: bisque;
+  }
+
+  .for2 {
+    background-color: aquamarine;
+    color: rgb(34, 33, 33);
+    padding: 0px 50px 0px 50px; 
   }
